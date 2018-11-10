@@ -1,0 +1,22 @@
+/*
+*Mia Casale 
+* Due Date 
+*Project Name and Description
+*/
+
+/* The Universal selector */
+
+* {
+
+}
+
+/* Body attributes here */
+
+body {
+background-color:indianred;
+    color: black;
+    }
+    #applecake{ width: 250px; height 00px;}
+header{ background-color:navajowhite}
+    main {background-color: dimgrey;}
+footer {background-color: skyblue;}
